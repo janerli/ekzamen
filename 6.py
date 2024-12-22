@@ -3,9 +3,6 @@
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 
-import tkinter as tk
-from tkinter import ttk, filedialog, messagebox
-
 
 class NameApp:
     def __init__(self, window):
